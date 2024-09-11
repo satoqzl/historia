@@ -1,0 +1,35 @@
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #2812a7;
+    color: rgb(7, 7, 7);
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 20px;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
